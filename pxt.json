@@ -1,0 +1,69 @@
+{
+    "name": "Undertale ARCADE - Copy - Copy #2",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-tile-util": "github:microsoft/arcade-tile-util#v1.2.0",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "sprite-scaling": "*",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1",
+        "arcade-fancy-text": "github:riknoll/arcade-fancy-text#v0.1.1",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.4.1",
+        "Stats": "github:UnsignedArduino/Stats#758e35856bd5565e5d0e25c95cccfac79b7fc168",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "sound effects": "github:klausw3/pxt-sound-effects#v1.2.0",
+        "pxt-zoom": "github:kiwiphoenix364/pxt-zoom#v2.0.1",
+        "animation": "*",
+        "arcade-sprite-events": "github:riknoll/arcade-sprite-events#dc93eec8412053ebbd2b8f01cf5b6ae285d28900",
+        "BetterSettings": "github:sargedev/bettersettings#2023.5.1",
+        "Crypt of Next Week (font)": "pub:72937-42308-63265-15544",
+        "Determination (font)": "pub:75039-75749-98901-26359",
+        "Custom Keybind Extension": "github:Brohann3214/custom-keybind-extension#ce1cb5acda5cd438592e38da4aaab10b73b46c64"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.57",
+        "tag": "v1.12.57",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/50c17cec0d73d32911acd1633e6ce81b85ed2c3a",
+        "target": "1.12.58",
+        "pxt": "8.5.68",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#C08226",
+        "#854A1D",
+        "#643214",
+        "#4A290B",
+        "#2C1708",
+        "#801111",
+        "#3A3A46",
+        "#6FBBF3",
+        "#24B44C",
+        "#5E5E76",
+        "#612C61",
+        "#C7C2E2",
+        "#E22400",
+        "#000000"
+    ]
+}
